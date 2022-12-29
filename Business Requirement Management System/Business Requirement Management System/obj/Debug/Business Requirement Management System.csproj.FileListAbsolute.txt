@@ -1,0 +1,42 @@
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.exe.config
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.exe
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.pdb
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csprojAssemblyReference.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Properties.Resources.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Home.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csproj.GenerateResource.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csproj.CoreCompileInputs.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.exe
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.pdb
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.LogIn_A.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.LogIn_C.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Dashboard_A.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Dashboard_C.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Admin_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Customer_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Product_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Hire.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Jobs.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.View_Product_Info.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Accepted.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.exe.config
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.exe
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\bin\Debug\Business Requirement Management System.pdb
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csprojAssemblyReference.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Accepted.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Admin_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Customer_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Dashboard_A.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Dashboard_C.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Hire.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Jobs.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.LogIn_A.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.LogIn_C.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Product_Detail.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Properties.Resources.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.Home.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business_Requirement_Management_System.View_Product_Info.resources
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csproj.GenerateResource.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.csproj.CoreCompileInputs.cache
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.exe
+C:\Users\Futuemind\Desktop\BEng (Hons)\AD\Coursework 1\Business Requirement Management System\Business Requirement Management System\obj\Debug\Business Requirement Management System.pdb
